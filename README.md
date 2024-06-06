@@ -8,3 +8,6 @@
 moinnn/moinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+💻 Tech Stack:
+C# CSS3 Dart HTML5 .Net Angular Bootstrap Flutter jQuery JWT Redis Postgres MicrosoftSQLServer MySQL Docker ElasticSearch Jira Postman Netlify C# CSS3 Dart TypeScript .Net Bootstrap SQLite SASS
